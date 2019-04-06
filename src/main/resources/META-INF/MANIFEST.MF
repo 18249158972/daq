@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Class-Path: tomcat-embed-el-8.5.11.jar spring-messaging-4.3.6.RELEASE.
+ jar spring-boot-autoconfigure-1.4.4.RELEASE.jar commons-codec-1.5.jar
+  validation-api-1.1.0.Final.jar jul-to-slf4j-1.7.22.jar spring-kafka-
+ 1.3.5.RELEASE.jar spring-data-commons-1.12.7.RELEASE.jar spring-boot-
+ starter-tomcat-1.4.4.RELEASE.jar spring-context-4.3.6.RELEASE.jar spr
+ ing-retry-1.1.5.RELEASE.jar commons-pool2-2.4.2.jar spring-boot-start
+ er-1.4.4.RELEASE.jar hibernate-core-5.0.11.Final.jar tomcat-jdbc-8.5.
+ 11.jar jcl-over-slf4j-1.7.22.jar junit-4.12.jar jandex-2.0.0.Final.ja
+ r spring-boot-starter-actuator-1.4.4.RELEASE.jar tomcat-embed-core-8.
+ 5.11.jar spring-boot-1.4.4.RELEASE.jar jackson-annotations-2.8.6.jar 
+ hibernate-commons-annotations-5.0.1.Final.jar jboss-logging-3.3.0.Fin
+ al.jar lz4-1.3.0.jar spring-boot-starter-aop-1.4.4.RELEASE.jar spring
+ -oxm-4.3.6.RELEASE.jar aspectjweaver-1.8.9.jar logback-core-1.1.9.jar
+  spring-data-keyvalue-1.1.7.RELEASE.jar mongo-java-driver-3.2.2.jar c
+ lassmate-1.3.3.jar jackson-core-2.8.6.jar tomcat-embed-websocket-8.5.
+ 11.jar spring-boot-starter-data-redis-1.4.2.RELEASE.jar slf4j-api-1.7
+ .22.jar spring-data-jpa-1.10.7.RELEASE.jar logback-classic-1.1.9.jar 
+ spring-aspects-4.3.6.RELEASE.jar snakeyaml-1.17.jar jedis-2.9.0.jar x
+ ml-apis-1.4.01.jar snappy-java-1.1.2.6.jar spring-expression-4.3.6.RE
+ LEASE.jar spring-webmvc-4.3.6.RELEASE.jar javassist-3.20.0-GA.jar spr
+ ing-beans-4.3.6.RELEASE.jar hibernate-entitymanager-5.0.11.Final.jar 
+ dom4j-1.6.1.jar spring-boot-starter-jdbc-1.4.4.RELEASE.jar hibernate-
+ validator-5.2.4.Final.jar antlr-2.7.7.jar commons-logging-1.2.jar ojd
+ bc14-10.2.0.5.0.jar spring-orm-4.3.6.RELEASE.jar spring-boot-actuator
+ -1.4.4.RELEASE.jar spring-web-4.3.6.RELEASE.jar spring-context-suppor
+ t-4.3.6.RELEASE.jar kafka-clients-0.11.0.2.jar spring-jdbc-4.3.6.RELE
+ ASE.jar spring-boot-starter-data-jpa-1.4.4.RELEASE.jar hamcrest-core-
+ 1.3.jar hibernate-jpa-2.1-api-1.0.0.Final.jar tomcat-juli-8.5.11.jar 
+ spring-data-mongodb-1.9.7.RELEASE.jar javax.transaction-api-1.2.jar s
+ pring-aop-4.3.6.RELEASE.jar spring-tx-4.3.6.RELEASE.jar commons-lang3
+ -3.3.2.jar spring-boot-starter-web-1.4.4.RELEASE.jar spring-boot-star
+ ter-logging-1.4.4.RELEASE.jar log4j-over-slf4j-1.7.22.jar spring-core
+ -4.3.6.RELEASE.jar spring-data-redis-1.7.5.RELEASE.jar jackson-databi
+ nd-2.8.6.jar commons-dbcp2-2.1.jar
+Main-Class: com.cmcc.andedu.microservice.Application
+

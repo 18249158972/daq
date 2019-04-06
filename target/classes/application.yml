@@ -1,0 +1,32 @@
+server:
+  port: 9016
+  servlet-path: /
+
+spring:
+  datasource:
+    primary:
+      continue-on-error: false
+      driverClassName: oracle.jdbc.driver.OracleDriver
+      max-active: 10
+      max-idle: 5
+      min-idle: 2
+      maxTotal: 10
+      max-wait: 5000
+      username: fs
+      password: fs123654321
+      url: jdbc:oracle:thin:@10.55.132.27:1521:yhrc2
+      #url: jdbc:oracle:thin:@120.131.12.63:1521:yhrc
+      test-on-borrow: true
+      validation-query: 'SELECT SYSDATE FROM DUAL'
+  jpa:
+      repositories:
+        enabled: true
+      generate-ddl: false
+      database-platform: org.hibernate.dialect.OracleDialect
+      hibernate:
+        ddl-auto: none
+
+
+
+      
+
