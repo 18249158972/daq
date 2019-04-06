@@ -5,7 +5,7 @@ public class Constants {
 	/*********** 自动采集银行数据的配置参数 ***********************/
 	// 银行FTP服务器配置信息
 	// 注意区分大小写、空格
-	// IP
+	// FTP服务器IP地址
 	public static String ftp_host = "10.55.131.250";
 	//public static String ftp_host = "112.33.21.147";
 	// 端口
